@@ -19,8 +19,9 @@ Examples of common interpreted languages are PHP, Ruby, Python, and JavaScript.
 |Once built runs faster | Runs slower |
 |Due to additional "object code" takes up more memory | Takes less memory |
 |Is safer because deploys the machine code | Lack of safety because deploys the source code |
+|Rigid for specific hardware architecture | Flexible for any hardware that has the interpreter |
 
-[!image](https://www.guru99.com/images/1/053018_0616_CompilervsI1.png)
+![image](https://www.guru99.com/images/1/053018_0616_CompilervsI1.png)
 
 ### Resources
 * [Interpreted vs Compiled Programming Languages: What's the Difference?](https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/)
