@@ -17,6 +17,7 @@ __Value Types__ just store the value itself like:
 * uint
 * ulong
 * ushort
+
 ![image](https://miro.medium.com/v2/resize:fit:774/1*pWj7JtouE8UbGnZM5ITKbQ.png)
 
 __Reference Type__ has a pointer to a space in memory which refers to the object, like `string` is really an object
